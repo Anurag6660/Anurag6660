@@ -63,7 +63,7 @@ Python/C++ based codes for simulating Hamiltonian dynamics with scalable methods
 
 ---
 
-⭐ *Always curious about solving hard problems at the intersection of physics, computation, and quantum technologies.*  
+⭐ *Always curious about solving hard problems at the intersection of chemistry, physics, computer science, and quantum technologies.*  
 
 ---
 
